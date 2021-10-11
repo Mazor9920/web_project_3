@@ -24,8 +24,8 @@
 
 /* content Blocks */
 @import url("../blocks/intro/intro.css");
+@import url("../blocks/photos-grid/photos-grid.css");
 /*
-blocks/photos-grid
 blocks/places
 */
 
@@ -34,6 +34,12 @@ blocks/places
 @import url("../blocks/intro/__beuys-quote/intro__beuys-quote.css");
 @import url("../blocks/intro/__quote-author/intro__quote-author.css");
 @import url("../blocks/intro/__text/intro__text.css");
+
+/* photos-grid Elements */
+@import url("../blocks/photos-grid/__list/photos-grid__list.css");
+@import url("../blocks/photos-grid/__list-item/photos__list-item.css");
+@import url("../blocks/photos-grid/__image/photos-grid__image.css");
+
 
 
 
