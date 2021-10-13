@@ -24,7 +24,9 @@
 
 /* content Blocks */
 @import url("../blocks/intro/intro.css");
-@import url("../blocks/photos-grid/photos-grid.css");
+@import url("../blocks/gallery/gallery.css");
+
+
 /*
 blocks/places
 */
@@ -35,12 +37,9 @@ blocks/places
 @import url("../blocks/intro/__quote-author/intro__quote-author.css");
 @import url("../blocks/intro/__text/intro__text.css");
 
-/* photos-grid Elements */
-@import url("../blocks/photos-grid/__list/photos-grid__list.css");
-@import url("../blocks/photos-grid/__list-item/photos__list-item.css");
-@import url("../blocks/photos-grid/__image/photos-grid__image.css");
-
-
+/* gallery Elements */
+@import url("../blocks/gallery/__image/gallery__image.css");
+@import url("../blocks/gallery/__grid-collage/gallery__grid-collage.css");
 
 
 /* footer Elements */

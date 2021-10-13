@@ -1,6 +1,5 @@
 .page__wrapper {
   max-width: 100%;
-  /* width: 100%; */
   margin: 0 48px;
 }
 
@@ -13,5 +12,12 @@
 @media screen and (max-width: 320px) {
   .page__wrapper {
     margin: 0 16px;
+  }
+}
+
+
+@media screen and (min-width: 1280px) {
+  .page__wrapper {
+    margin: 0 auto;
   }
 }
