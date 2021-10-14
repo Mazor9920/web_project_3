@@ -1,0 +1,32 @@
+.place {
+  max-width: 987px;
+  background-color: #2A2C2F;
+  display: grid;
+  grid-template-areas:
+    "place__address place__artist"
+    "place__picture place__description"
+    "place__buy-button place__description";
+  grid-gap: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 40px 0;
+}
+
+@media screen and (max-width: 900px) {
+  .place {
+    margin: 36px 0;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .place {
+    grid-template-areas:
+      "place__address "
+      "place__artist"
+      "place__picture"
+      "place__description"
+      "place__buy-button";
+    margin: 24px 0;
+  }
+}

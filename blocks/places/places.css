@@ -1,0 +1,16 @@
+.places{
+  background-color: #2A2C2F;
+  color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  max-width: 984px;
+  margin: 12px 0;
+}
+
+
+@media screen and (max-width: 700px) {
+  .places {
+    margin: 40px 0;
+  }
+}

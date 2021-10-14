@@ -1,0 +1,4 @@
+.place__artist {
+  grid-area: place__artist;
+  margin: 0;
+}
