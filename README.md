@@ -1,19 +1,24 @@
+
 # Project 3: From Homeland to Homeland
-### Overview  
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**    
-  
-This is a project that showcases the hometowns of some of Practicum's employees. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)  
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!  
+
+## Creating Responsive Web Page
+
+### Project Description and its Functionality:
+
+HTML page, styled by CSS, and Connected Third-Party Code including Fonts.  
+The web page contains images, links, and grid layouts.
+
+
+### Technologies Description and Used Techniques:
+
+* Positioning elements using Flexbox.
+* Positioning elements using Grid layouts and Grid Areas to create adaptive and responsive web-page which allow using different devices.
+For Optimizing responsiveness I used Media Queries, The Fr Unit, Meta Tags, the calc() Function
+* Optimizing exported images using https://tinypng.com/ and https://jakearchibald.github.io/svgomg/ To Maximize the fast of the loading.
+* I was practicing command-line-using to create the files structure and upload the project to git by creating and merging branches.
+* I organized all the files according to BEM structure using the @import Rule, and Connected the Necessary Blocks to the Web Page, to achieve maximum Code mobility.
+* I used the chrome dev-tools for Debugging.
+* I used Figma for guidelines:
+[Link to the project on Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)  
+* I created README file and a upload this project to GitHub Pages - check this out:
+[Link to my project on Git](https://mazor9920.github.io/web_project_3/index.html)  
