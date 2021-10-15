@@ -8,7 +8,6 @@
   flex-direction: column;
 }
 
-
 @media screen and (max-width: 984px) {
   .intro {
     padding-right: calc(0.5 * (984px - 785px));

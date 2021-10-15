@@ -15,7 +15,7 @@
   margin: 40px 0;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
   .place {
     margin: 36px 0;
   }
@@ -30,6 +30,5 @@
       "place__description"
       "place__buy-button";
     margin: 24px 0;
-
   }
 }

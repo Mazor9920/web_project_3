@@ -13,6 +13,11 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  background-color: #2A2C2F;
+}
+
+.cover:hover {
+  background-blend-mode: overlay;
 }
 
 @media screen and (max-width: 1184px) {
