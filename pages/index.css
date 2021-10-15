@@ -6,29 +6,37 @@
 @import url("../blocks/haeder/header.css");
 @import url("../blocks/content/content.css");
 @import url("../blocks/footer/footer.css");
+
 /* page Elements */
 @import url("../blocks/page/__wrapper/page__wrapper.css");
+
 /* Blocks/Elements within another Blocks */
+
 /* header Blocks */
 @import url("../blocks/logo/logo.css");
 @import url("../blocks/lead/lead.css");
+
 /* lead Elements */
 @import url("../blocks/lead/__title/lead__title.css");
 @import url("../blocks/lead/__subtitle/lead__subtitle.css");
 @import url("../blocks/lead/__image/lead__image.css");
+
 /* content Blocks */
 @import url("../blocks/intro/intro.css");
 @import url("../blocks/gallery/gallery.css");
 @import url("../blocks/places/places.css");
 @import url("../blocks/cover/cover.css");
+
 /* intro Elements */
 @import url("../blocks/intro/__title/intro__title.css");
 @import url("../blocks/intro/__beuys-quote/intro__beuys-quote.css");
 @import url("../blocks/intro/__quote-author/intro__quote-author.css");
 @import url("../blocks/intro/__text/intro__text.css");
+
 /* gallery Elements */
 @import url("../blocks/gallery/__image/gallery__image.css");
 @import url("../blocks/gallery/__grid-collage/gallery__grid-collage.css");
+
 /* place Block */
 @import url("../blocks/place/place.css");
 /* place Elements */
@@ -41,12 +49,16 @@
 @import url("../blocks/place/__artist-details/place__artist-details.css");
 @import url("../blocks/place/__description/place__description.css");
 @import url("../blocks/place/__description-paragraph/place__description-paragraph.css");
+
 /* cover Elements */
 @import url("../blocks/cover/__text/cover__text.css");
 @import url("../blocks/cover/__title/cover__title.css");
 @import url("../blocks/cover/__buy-button/cover__buy-button.css");
+@import url("../blocks/cover/__text-line/cover__text-line.css");
+
 /* footer Elements */
 @import url("../blocks/footer/__copyright/footer__copyright.css");
+
 /* Global Styles */
 /* page Block */
 @import url("../blocks/page/page.css");

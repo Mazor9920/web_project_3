@@ -14,7 +14,7 @@ The web page contains images, links, and grid layouts.
 * Positioning elements using Flexbox.
 * Positioning elements using Grid layouts and Grid Areas to create adaptive and responsive web-page which allow using different devices.
 For Optimizing responsiveness I used Media Queries, The Fr Unit, Meta Tags, the calc() Function
-* Optimizing exported images using https://tinypng.com/ and https://jakearchibald.github.io/svgomg/ To Maximize the fast of the loading.
+* Optimizing exported images using [tinypng](https://tinypng.com/) and [svgomg](https://jakearchibald.github.io/svgomg/) To Maximize the fast of the loading.
 * I was practicing command-line-using to create the files structure and upload the project to git by creating and merging branches.
 * I organized all the files according to BEM structure using the @import Rule, and Connected the Necessary Blocks to the Web Page, to achieve maximum Code mobility.
 * I used the chrome dev-tools for Debugging.
