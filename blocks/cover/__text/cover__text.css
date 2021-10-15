@@ -1,4 +1,4 @@
-.footer__text {
+.cover__text {
   margin: 32px 0;
   max-width: 320px;
   font-family: Inter;
@@ -11,7 +11,7 @@
 }
 
 @media screen and (max-width: 475px) {
-  .footer__text {
+  .cover__text {
     margin: 16px 0;
     font-size: 14px;
     line-height: 16px;

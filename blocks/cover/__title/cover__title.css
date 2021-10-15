@@ -1,4 +1,4 @@
-.footer__title {
+.cover__title {
   margin: 0;
   max-width: 656px;
   font-family: Inter;
@@ -11,7 +11,7 @@
 }
 
 @media screen and (max-width: 475px) {
-  .footer__title {
+  .cover__title {
     font-size: 32px;
     line-height: 35px;
     margin: 46px 0 0;
