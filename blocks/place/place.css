@@ -1,4 +1,6 @@
 .place {
+  width: 100%;
+  min-width: 288px;
   max-width: 987px;
   background-color: #2A2C2F;
   display: grid;
@@ -28,5 +30,6 @@
       "place__description"
       "place__buy-button";
     margin: 24px 0;
+
   }
 }

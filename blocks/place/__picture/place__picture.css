@@ -2,11 +2,18 @@
   grid-area: place__picture;
   width: 92%;
   margin: 48px 0;
+  min-width: 320px;
 }
 
 @media screen and (max-width: 700px) {
   .place__picture {
-    margin: 30px -16px 32px;
+    margin: 30px -24px 32px;
     width: 100vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__picture {
+    margin: 30px -16px 32px;
   }
 }

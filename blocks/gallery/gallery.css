@@ -1,9 +1,24 @@
 .gallery {
-  width: 100%;
+  max-width: 1184px;
+  margin: 0 -100px;
   display: grid;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
   grid-gap: 16px;
+}
+
+@media screen and (max-width: 1184px) {
+  .gallery {
+    margin: 0;
+    width: 100%;
+    max-width: 984px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .gallery {
+    max-width: 100%;
+  }
 }
