@@ -1,7 +1,8 @@
 .places{
   width: 100%;
   min-width: 288px;
-  max-width: 984px;
+  /* max-width: 984px; */
+  max-width: 1184px;
   background-color: #2A2C2F;
   color: #FFFFFF;
   display: flex;
@@ -11,8 +12,14 @@
 }
 
 
+@media screen and (max-width: 1280px) {
+  .places{
+    max-width: 100%;
+  }
+}
+
 @media screen and (max-width: 700px) {
   .places {
-    margin: 40px 0;
+    margin: 40px 0 0;
   }
 }
