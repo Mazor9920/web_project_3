@@ -35,7 +35,6 @@
 
 /* gallery Elements */
 @import url("../blocks/gallery/__image/gallery__image.css");
-@import url("../blocks/gallery/__grid-collage/gallery__grid-collage.css");
 
 /* place Block */
 @import url("../blocks/place/place.css");
@@ -61,5 +60,3 @@
 /* Global Styles */
 /* page Block */
 @import url("../blocks/page/page.css");
-/* link Block */
-@import url("../blocks/link/link.css");
