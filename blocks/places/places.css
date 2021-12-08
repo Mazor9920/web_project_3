@@ -1,22 +1,22 @@
 .places{
   width: 100%;
   min-width: 288px;
-  /* max-width: 984px; */
-  max-width: 1184px;
+  max-width: 987px;
   background-color: #2A2C2F;
   color: #FFFFFF;
   display: flex;
   flex-direction: column;
   align-content: center;
-  margin: 12px 0;
+  margin: 12px 100px;
 }
 
-
+/*
 @media screen and (max-width: 1280px) {
   .places{
     max-width: 100%;
   }
 }
+ */
 
 @media screen and (max-width: 700px) {
   .places {

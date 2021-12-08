@@ -8,6 +8,7 @@
 @media screen and (max-width: 700px) {
   .place__picture {
     margin: 30px -24px 32px;
+    max-width: calc(100% + 24px * 2);
     width: 100vw;
   }
 }
@@ -15,5 +16,6 @@
 @media screen and (max-width: 320px) {
   .place__picture {
     margin: 30px -16px 32px;
+    max-width: calc(100% + 16px * 2);
   }
 }

@@ -1,6 +1,9 @@
 .page__wrapper {
-  max-width: 100%;
+  /* max-width: 100%; */
   margin: 0 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 @media screen and (max-width: 768px) {

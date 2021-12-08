@@ -5,4 +5,5 @@
   flex-direction: column;
   align-content: center;
   max-width: 984px;
+  margin: 0;
 }

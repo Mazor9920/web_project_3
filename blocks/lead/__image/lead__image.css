@@ -1,11 +1,13 @@
 .lead__image {
-  width: 100%;
+  max-width: 100%;
   min-width: 320px;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 768px) {
   .page__wrapper .lead__image {
-    width: 100vw;
+    /* max-width: 768px; */
+    max-width: calc(100% + 24px * 2);
     margin: 0 -24px;
   }
 }
