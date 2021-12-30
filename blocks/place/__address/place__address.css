@@ -3,12 +3,12 @@
   max-width: 92%;
   margin: 0;
   padding: 0;
-  font-family: Inter;
+  font-family: 'Inter', 'Calibri', sans-serif;
   font-size: 72px;
   font-style: normal;
   font-weight: 900;
   line-height: 76px;
-  letter-spacing: 0em;
+  letter-spacing: 0;
   text-align: left;
 }
 

@@ -1,7 +1,7 @@
 .cover__text {
   margin: 32px 0;
-  max-width: 320px;
-  font-family: Inter;
+  max-width: 230px;
+  font-family: 'Inter', 'Calibri', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -12,6 +12,7 @@
 
 @media screen and (max-width: 475px) {
   .cover__text {
+    max-width: 180px;
     margin: 16px 0;
     font-size: 14px;
     line-height: 16px;

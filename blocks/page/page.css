@@ -6,5 +6,5 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', 'Calibri', sans-serif;
 }
