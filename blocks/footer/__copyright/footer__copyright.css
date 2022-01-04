@@ -1,5 +1,5 @@
 .footer__copyright {
-  margin: 92px 0 24px 0;
+  margin: 0;
   font-family: 'Inter', 'Calibri', sans-serif;
   font-size: 14px;
   font-style: normal;
@@ -7,16 +7,4 @@
   line-height: 16px;
   letter-spacing: 0em;
   color: white;
-}
-
-@media screen and (max-width: 768px) {
-  .footer__copyright {
-    margin-top: 88px;
-  }
-}
-
-@media screen and (max-width: 475px) {
-  .footer__copyright {
-    margin-top: 64px;
-  }
 }

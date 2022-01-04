@@ -1,7 +1,13 @@
-.place__description-paragraph{
+.place__description-paragraph {
   margin: 0 0 25px 0;
 }
 
-.place__description-paragraph:nth-last-child(1){
+.place__description-paragraph:nth-last-child(1) {
   margin: 0;
+}
+
+@media screen and (max-width: 700px) {
+  .place__description-paragraph {
+    padding: 0 16px;
+  }
 }

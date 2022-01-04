@@ -1,25 +1,22 @@
-.places{
-  width: 100%;
-  min-width: 288px;
+.places {
+  min-width: 320px;
   max-width: 987px;
   background-color: #2A2C2F;
   color: #FFFFFF;
   display: flex;
   flex-direction: column;
   align-content: center;
-  margin: 12px 100px;
+  margin: 0 100px;
 }
 
-/*
-@media screen and (max-width: 1280px) {
-  .places{
-    max-width: 100%;
+@media screen and (max-width: 1032px) {
+  .places {
+    margin: 0 24px;
   }
 }
- */
 
 @media screen and (max-width: 700px) {
   .places {
-    margin: 40px 0 0;
+    margin: 0;
   }
 }

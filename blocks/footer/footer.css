@@ -1,8 +1,9 @@
 .footer{
   display: flex;
   justify-content: center;
-  margin: 0;
+  margin: 0 0 24px 0;
   padding: 0;
   background-color: #2A2C2F;
-  /* max-width: 1184px; */
+  max-width: 1184px;
+  min-width: 320px;
 }

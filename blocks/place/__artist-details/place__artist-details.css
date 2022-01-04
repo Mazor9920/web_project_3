@@ -8,3 +8,9 @@
   letter-spacing: 0em;
   text-align: left;
 }
+
+@media screen and (max-width: 700px) {
+  .place__artist-details {
+    padding: 0 16px;
+  }
+}

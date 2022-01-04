@@ -1,19 +1,12 @@
 .page__wrapper {
-  /* max-width: 100%; */
   margin: 0 48px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1184px) {
   .page__wrapper {
-    margin: 0 24px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .page__wrapper {
-    margin: 0 16px;
+    margin: 0;
   }
 }

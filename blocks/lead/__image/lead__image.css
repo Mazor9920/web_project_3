@@ -1,20 +1,6 @@
 .lead__image {
-  max-width: 100%;
+  max-width: 984px;
   min-width: 320px;
   margin: 0 auto;
-}
-
-@media screen and (max-width: 768px) {
-  .page__wrapper .lead__image {
-    /* max-width: 768px; */
-    max-width: calc(100% + 24px * 2);
-    margin: 0 -24px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .page__wrapper .lead__image {
-    width: 100vw;
-    margin: 0 -16px;
-  }
+  width: 100%;
 }

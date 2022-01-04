@@ -2,5 +2,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 984px;
+  max-width: 1184px;
+  min-width: 320px;
 }

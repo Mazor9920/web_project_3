@@ -1,12 +1,12 @@
 .logo {
-  max-width: 271px;
+  max-width: 270px;
   align-self: center;
-  margin: 34px auto calc(198px - 34px - 72px);
+  margin: 34px auto 90px;
 }
 
 @media screen and (max-width: 600px) {
   .logo {
     max-width: 200px;
-    margin: 20px auto calc(122px - 20px - 51px);
+    margin: 20px auto 50px;
   }
 }
