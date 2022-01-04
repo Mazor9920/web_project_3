@@ -21,7 +21,7 @@
 
 @media screen and (max-width: 700px) {
   .place__buy-button {
-    margin: 30px auto 48px;
     padding: 0 16px;
+    margin: 30px auto 0;
   }
 }

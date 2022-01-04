@@ -31,3 +31,11 @@
     margin: 25px 0;
   }
 }
+
+.place:nth-child(1) {
+  margin-top: 0;
+}
+
+.place:nth-last-child(1) {
+  margin-bottom: 0;
+}

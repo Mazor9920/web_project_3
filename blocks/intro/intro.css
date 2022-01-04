@@ -1,7 +1,7 @@
 .intro {
   max-width: 984px;
   min-width: 288px;
-  margin: 92px 100px 66px;
+  margin: 92px 100px 26px;
   padding-right: calc(984px - 785px);
   background-color: #2A2C2F;
   color: #FFFFFF;
@@ -11,13 +11,13 @@
 
 @media screen and (max-width: 1032px) {
   .intro {
-    margin: 88px 24px 38px;
+    margin: 88px 24px 2px;
     padding-right: 0;
   }
 }
 
 @media screen and (max-width: 500px) {
   .intro {
-    margin: 64px 16px 53px;
+    margin: 64px 16px 28px;
   }
 }
