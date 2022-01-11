@@ -1,6 +1,6 @@
 .place__address {
   grid-area: place__address;
-  max-width: 460px;
+  max-width: 100%;
   min-width: 288px;
   margin: 0;
   padding: 0;
@@ -21,8 +21,9 @@
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 500px) {
   .place__address {
-    padding: 0 16px;
+    font-size: 32px;
+    line-height: 35px;
   }
 }

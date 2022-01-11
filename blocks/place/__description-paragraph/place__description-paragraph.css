@@ -5,9 +5,3 @@
 .place__description-paragraph:nth-last-child(1) {
   margin: 0;
 }
-
-@media screen and (max-width: 700px) {
-  .place__description-paragraph {
-    padding: 0 16px;
-  }
-}

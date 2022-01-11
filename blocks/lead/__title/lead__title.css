@@ -1,4 +1,5 @@
 .lead__title {
+  margin: 0;
   max-width: 793px;
   min-width: 288px;
   font-family: 'Inter', 'Calibri', sans-serif;

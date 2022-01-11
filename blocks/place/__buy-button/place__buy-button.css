@@ -1,7 +1,7 @@
 .place__buy-button {
   grid-area: place__buy-button;
-  max-width: 288px;
-  height: 48px;
+  max-width: 248px;
+  max-height: 48px;
   background: #0278FE;
   border: 0;
   border-radius: 4px;
@@ -21,8 +21,7 @@
 
 @media screen and (max-width: 700px) {
   .place__buy-button {
-    padding: 0 16px;
-    margin: 30px auto 0;
-    width: 100%;
+    padding: 13px 40px;
+    max-width: 100%;
   }
 }

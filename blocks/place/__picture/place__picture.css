@@ -1,20 +1,4 @@
 .place__picture {
   grid-area: place__picture;
-  margin: 48px 40px 48px 0;
-  width: 460px;
-  min-width: 320px;
-}
-
-@media screen and (max-width: 700px) {
-  .place__picture {
-    margin-right: 28px;
-    width: 100%;
-  }
-}
-
-@media screen and (max-width: 500px) {
-  .place__picture {
-    padding: 0;
-    margin: 30px 0;
-  }
+  width: 100%;
 }
